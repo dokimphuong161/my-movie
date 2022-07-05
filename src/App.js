@@ -6,7 +6,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
-                <p>Web của Kim Phượng</p>
+                <p>Đây là web phim của tôi</p>
             </header>
         </div>
     );
